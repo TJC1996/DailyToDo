@@ -43,14 +43,20 @@ function App() {
     <>
       <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossOrigin="anonymous"></link>
      
-      <div className='d-flex flex-column justify-content-between' style={{ minHeight: '100vh' }}>
+      <div className='d-flex flex-column justify-content-between' style={{ minHeight: '120vh' }}>
     <div>
-    <h2 className='text-center mt-4'>To Do List:</h2>
-    <div className='px-4 py-5 my-5 text-center mt-auto'>
+    
+    <div className='px-120 py-150 my-150 text-center mt-8'>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <h2 className='text-center mt-5'>To Do List:</h2>
     <TodoList todos={todos} toggleTodo={toggleTodo} className="mb-5" />
     </div>
       {/* Place any content you want to keep on top */}
     </div>
+   
     
     <div className='px-4 py-5 my-5 text-center mt-auto'>
       <div className="input">

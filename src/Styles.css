@@ -1,18 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Fredoka&display=swap');
 
-body{
-    background-image: url('./images/linedpaper.png') ;
-    background-position: center;
-    
-}
+
 
 #root { 
+    background-image: url('./images/whiteboard.png') ;
     font-family: 'Dancing Script', cursive;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: grey;
 
 }
 
 #root h2{ 
-    color: white;
+    color: black;
 
 }
 

@@ -57,7 +57,7 @@ function App() {
        
         <input ref={todoNameRef} type="text" className="form-control mt-5" />
         <div class="btn-group mt-3" role="group">
-          <button class="btn btn-success" onClick={handleAddTodo}>Add Todos</button>
+          <button class="btn btn-success" onClick={handleAddTodo}>Add To Do</button>
           <button class="btn btn-danger" type="button" onClick={clearTodos}>Clear</button>
         </div>
       </div>

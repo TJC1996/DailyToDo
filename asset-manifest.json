@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/DailyToDo/static/css/main.cd2eabf8.css",
-    "main.js": "/DailyToDo/static/js/main.fd1e30d8.js",
+    "main.js": "/DailyToDo/static/js/main.ecc14f2c.js",
     "static/js/787.cf7afa1b.chunk.js": "/DailyToDo/static/js/787.cf7afa1b.chunk.js",
     "static/media/paper.png": "/DailyToDo/static/media/paper.e355a1149eb1767c9be7.png",
     "index.html": "/DailyToDo/index.html",
     "main.cd2eabf8.css.map": "/DailyToDo/static/css/main.cd2eabf8.css.map",
-    "main.fd1e30d8.js.map": "/DailyToDo/static/js/main.fd1e30d8.js.map",
+    "main.ecc14f2c.js.map": "/DailyToDo/static/js/main.ecc14f2c.js.map",
     "787.cf7afa1b.chunk.js.map": "/DailyToDo/static/js/787.cf7afa1b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cd2eabf8.css",
-    "static/js/main.fd1e30d8.js"
+    "static/js/main.ecc14f2c.js"
   ]
 }
